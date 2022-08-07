@@ -22,7 +22,7 @@ edit(title){
   };
   
   
-  render(
+  render( 
     handleEditing=() =>{
 this.setState({
 editing : true,
